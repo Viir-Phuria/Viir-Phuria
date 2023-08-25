@@ -1,15 +1,37 @@
 <h1 align="center">Hi 👋, I'm Viir Phuria</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viir-phuria&label=Profile%20views&color=0e75b6&style=flat" alt="viir-phuria" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viir-phuria" alt="viir-phuria" /></a> </p>
+
+- 🔭 I’m currently working on **Machine Learning**
+
+- 🌱 I’m currently learning **Machine Learning, Flutter**
+
+- 👨‍💻 All of my projects are available at [https://viir-phuria.netlify.app](https://viir-phuria.netlify.app)
+
+- 📫 How to reach me **virvphuria@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/viir-phuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="viir-phuria" height="30" width="40" /></a>
+<a href="https://dev.to/viir-phuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="viir-phuria" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/viir-phuria-b04a37226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viir-phuria-b04a37226" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:22047935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22047935" height="30" width="40" /></a>
+<a href="https://codesandbox.com/viir-phuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="viir-phuria" height="30" width="40" /></a>
+<a href="https://kaggle.com/viirvphuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="viirvphuria" height="30" width="40" /></a>
+<a href="https://fb.com/vir.phuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vir.phuria" height="30" width="40" /></a>
 <a href="https://instagram.com/viir_phuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viir_phuria" height="30" width="40" /></a>
+<a href="https://dribbble.com/viir-phuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="viir-phuria" height="30" width="40" /></a>
+<a href="https://www.behance.net/virphuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="virphuria" height="30" width="40" /></a>
+<a href="https://hashnode.com/viirvphuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="viirvphuria" height="30" width="40" /></a>
+<a href="https://medium.com/@virvphuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@virvphuria" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/viirvphuria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="viirvphuria" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/virvphuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="virvphuria" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/viir-phuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="viir-phuria" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/viir-phuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viir-phuria" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@virvphuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@virvphuria" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/virvphuslo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="virvphuslo" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/viir-phuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="viir-phuria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
